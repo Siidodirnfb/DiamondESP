@@ -1,17 +1,17 @@
 {
   "format_version": 1,
   "header": {
-    "description": "X-Ray для поиска алмазов",
-    "name": "Super Xray 1.1.5",
-    "uuid": "08963385-7d9c-4f63-9899-553aea37b2fe",
-    "version": [0, 0, 1]
+    "description": "X-Ray for Diamonds",
+    "name": "Diamond ESP",
+    "uuid": "4f995f51-2181-42e0-8809-566bc7523190",
+    "version": [1, 0, 0]
   },
   "modules": [
     {
-      "description": "Ресурсы Xray",
+      "description": "Resources",
       "type": "resources",
-      "uuid": "430423cc-bcf7-489c-b123-e75389056aa7",
-      "version": [0, 0, 1]
+      "uuid": "9665e648-3929-478a-a28d-176378e90895",
+      "version": [1, 0, 0]
     }
   ]
 }
