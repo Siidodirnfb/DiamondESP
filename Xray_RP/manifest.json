@@ -1,1 +1,17 @@
-
+{
+  "format_version": 1,
+  "header": {
+    "description": "X-Ray для поиска алмазов",
+    "name": "Super Xray 1.1.5",
+    "uuid": "08963385-7d9c-4f63-9899-553aea37b2fe",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "Ресурсы Xray",
+      "type": "resources",
+      "uuid": "430423cc-bcf7-489c-b123-e75389056aa7",
+      "version": [0, 0, 1]
+    }
+  ]
+}
